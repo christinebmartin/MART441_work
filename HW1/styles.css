@@ -1,0 +1,33 @@
+/*Define body style */
+body {
+  background-color: lightgray;
+  font-family: Arial, Verdana, sans-serif;
+}
+
+
+/* Header style*/
+.header {
+  padding: 10px;
+  text-align: center;
+  background: dimgray;
+  color: pink;
+  font-size: 30px;
+  font-family: fantasy;
+}
+
+/*Container 1 style */
+.container {
+border: 5px solid black;
+padding: 10px;
+border-radius: 5px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+/*Container 2 style */
+.footer {
+  border: 5px solid mediumpurple;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
