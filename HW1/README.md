@@ -1,7 +1,7 @@
 #441_ Work
 Homework repository for MAR 441 Spring 2022
 
-Base URL for site: ttps://christinebmartin.github.io/441_Work/
+Base URL for site:  https://christinebmartin.github.io/MART441_work/
 
 * Week 1 has been a bit of a struggle for me.  It's been 6 months since I completed 341, so it's been a bit of a challenge to get back into the swing of things.
 
