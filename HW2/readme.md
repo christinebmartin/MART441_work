@@ -7,7 +7,7 @@ Additionally I resurfaced something I attempted 3 years ago, adding sprite anima
 
 ###Steps Used To Complete Work###
 1.  Documented all required elements for the homework assignment in Rocketbook
-![Mart 441 Homework 2!]!(/HW2/Mart_441_Week_2.jpg "Week 2 plan")
+![Mart 441 Homework 1 Design!](/HW2/Mart_441_Week_2.jpg "Week 2 plan")
 2.  Practiced logging to the console and researching how to link to a URL from the console.
 3.  Although the homeowrk indicated the background color should be in the header, I found it to be easier to include a CSS style sheet and link to that.
 
