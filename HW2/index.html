@@ -13,8 +13,57 @@
 
   <title>Walking Man</title>
 
-<!--Insert link to Style shit -->
+<!--Insert link to Style sheet
   <link rel="stylesheet" style type="text/css" href="style.css">
+-->
+
+  <style>
+  body {
+    background-color: lightpink
+  }
+
+  /*Define attributes of stickman div */
+  .Stickman {
+        width: 270px; /*width of each sprite */
+        height: 346px; /*height of each sprite */
+        margin: 2em auto; /*margin around each sprite */
+        background-image: url(Stickman.png); /*location of sprite sheet */
+        animation-iteration-count: infinite;
+
+  -webkit-animation: walking 3s steps(7) infinite; /*Animation for Chrome and Safari */
+  -moz-animation: walking 3s steps(7) infinite; /*animation for Firefox */
+  -ms-animation: walking 3s steps(7) infinite; /*animation for Internet Eplorer */
+  -o-animation: walking 3s steps(7) infinite; /*animation for Opera */
+  animation: walking 3s steps(7) infinite; /*animation */
+        }
+
+        @-webkit-keyframes walking {
+           from { background-position: -2088px; } /*Beginning point for animation */
+             to { background-position: 1000px; } /*End point for animation */
+        }
+
+        @-moz-keyframes walking {
+           from { background-position:  -0px; }
+             to { background-position: 1000px; }
+        }
+
+        @-ms-keyframes walking {
+           from { background-position:  -0px; }
+             to { background-position: 1000px; }
+        }
+
+        @-o-keyframes walking {
+           from { background-position:  -0px; }
+             to { background-position: 1000px; }
+        }
+
+        @keyframes walking {
+           from { background-position:  -2088px; }
+             to { background-position: 0px; }
+        }
+      }
+
+  </style>
 
   </head>
 
