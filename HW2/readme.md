@@ -10,7 +10,8 @@ Additionally I resurfaced something I attempted 3 years ago, adding sprite anima
 ![Mart 441 Homework 1 Design!](/HW2/Mart_441_Week_2.jpg "Week 2 plan")
 2.  Practiced logging to the console and researching how to link to a URL from the console.
 3.  I had originally created a style sheet to capture the CSS content for my stickman and not muddy the html document.  Once I was able to get it working the way I wanted to, I copied the style sheet elements to the html and deleted the file.
-4.  
+4.  I did some research on popular coding languages and found some interesting surveys about popular languages and where they rank over the last several years.  I wonder what makes them fall off the list.
+
 ###Problems/Issues/Questions###
 It's been 3 years since I took Creative Coding, so it's taken me a bit to refresh my skills on psj5.  The simple task of how to apply a background color at the header level to the entire document was something as simple as applying it to the "body", but it took some research on how to do that.
 
