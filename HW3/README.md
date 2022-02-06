@@ -7,7 +7,7 @@
 SO MANY TO COUNT!!!!
 I wanted to utilize the ternary operators for if/else, which proved to be very challenging.  I drew the statements decision tree
 on my rocketbook, along with the required elements for the homework.
-![Mart 441 Homework 3!](/HW3/Mart_441_Week_3.jpg "Week 3 fiasco")
+![Mart 441 Homework 3!](/HW3/images/MART_441_week_3.jpg "Week 3 fiasco")
 I spent a "crapton" of time reading about DOM, and functions.  Spent event more time playing on the Grasshopper app.
 
 
