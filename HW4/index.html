@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--Define header of document-->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport"
+      content="width=device-width,
+      initial-scale=1.0">
+  <meta name="description"
+      content="...">
+  <meta name="author"
+      content="Christine Martin 441 Homework Week 4">
+
+  <title>Let's Get Loopy</title>
+
+  <script src="script.js"> //point html to javascript file
+  </script>
+
+  <link rel="stylesheet" style type="text/css" href="style.css">  //link to css file for styling
+
+</head>
+
+<body onload="myWelcome()"> //run myWelcome function when page loads.
+
+  <!--create an ID of the image, defining the source, alt name, size and alignment-->
+  <img src="./images/winterPic.jpg" id="mainImage"><br><br>
+
+  <div id="welcome"></div> <br><br>
+
+  <button id="slopes" onclick="onSlope()";> Click to see who is on the slopes today</button> 
+
+  <div id=skiing></div>
+
+  <div id = "letsGo"> <!-- this is where new text will be placed -->
+
+  <p>It's a beautiful winter day here in Northwest Montana.  Since you've got the day off
+  work or school, how about spending the day on the slopes!
+  <br><br>
+  Who should we ask to join us on this beautiful day?</p>
+  </div>
+
+<!--Define buttons and set onclick functions.  Buttons are given an ID -->
+      <br>
+      <button id="snow1" onclick="winterFunction(1); ">Dave</button>&nbsp;
+      <button id="snow2" onclick="winterFunction(2); ">Jenell</button> <br><br>
+      <button onclick="location.reload();">Start the day over</button>
+</body>
+
+</html>
