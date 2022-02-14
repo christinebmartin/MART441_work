@@ -16,7 +16,7 @@ function  onSlope() {
     for (let i=0; i<skiers.length; i++)  {
       text += skiers[i] + " " ;
 }
-document.getElementById("skiing").innerHTML = "Looks like " + text + " are already on the slopes,  Let's hurry!" +"<br />";
+document.getElementById("skiing").innerHTML = "Looks like " + text + " are already on the slopes,  Let's hurry!" +"<br><br>";
 
   		}
 
